@@ -1,0 +1,11 @@
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\bin\Debug\MATRIX.exe.config
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\bin\Debug\MATRIX.exe
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\bin\Debug\MATRIX.pdb
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.Form1.resources
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.Properties.Resources.resources
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.csproj.GenerateResource.cache
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.exe
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.pdb
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.Form2.resources
+C:\Users\Alp Eren SUKAS\source\repos\MATRIX\MATRIX\obj\Debug\MATRIX.Form3.resources
