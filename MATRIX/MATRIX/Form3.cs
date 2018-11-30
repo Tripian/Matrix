@@ -257,8 +257,7 @@ namespace MATRIX
             {
                 for (int j = 0; j < Matris1.GetLength(1); j++)
                 {
-                    tempMatris2[i, j] = 0;
-                    for (int k = 0; k < 2; k++)
+                    for (int k = 0; k < Matris1.GetLength(1); k++)
                     {
                         tempMatris2[i, j] += tempMatris[i, k] * tempMatris1[k, j];
                     }
