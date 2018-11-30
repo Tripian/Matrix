@@ -147,7 +147,7 @@ namespace MATRIX
                     groupBox4.Controls.Add(Matris3[x, y]);
                 }
             }*/
-            MessageBox.Show(Convert.ToString(m_ters[0, 0]));
+            //MessageBox.Show(Convert.ToString(m_ters[0, 0]));
             /*int boyut1 = groupBox2.Width / transpoz.GetLength(1);
             Matris1 = new TextBox[transpoz.GetLength(0), transpoz.GetLength(1)];
             groupBox2.Controls.Clear();
@@ -282,7 +282,7 @@ namespace MATRIX
             }
 
             //Determinant Başlangıç
-
+            /*
             double[,] tempMatris3 = new double[tempMatris2.GetLength(0), tempMatris2.GetLength(1)];
             double d;
 
@@ -293,7 +293,7 @@ namespace MATRIX
             }
             else
                 kofaktor(tempMatris2, tempMatris2.GetLength(0));
-           
+           */
         }
             
        }
