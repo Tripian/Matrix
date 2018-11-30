@@ -13,6 +13,12 @@ namespace MATRIX
     public partial class Form2 : Form
     {
         private TextBox[,] Matris;
+        private TextBox[,] Matris1;
+        private TextBox[,] Matris2;
+        private TextBox[,] Matris3;
+        //private TextBox[,] Matris4;
+        float[,] tempMatris;
+
         int satir, sutun;
         public Form2()
         {
@@ -65,7 +71,7 @@ namespace MATRIX
                 }  
             }
 
-            float[,] tempMatris = new float[Matris.GetLength(0), Matris.GetLength(1)];
+            tempMatris = new float[Matris.GetLength(0), Matris.GetLength(1)];
             for (int x = 0; x < Matris.GetLength(0); x++)
             {
                 for (int y = 0; y < Matris.GetLength(1); y++)
@@ -75,8 +81,8 @@ namespace MATRIX
                     tempMatris[x, y] = n;
                 }
             }
+            MessageBox.Show(Convert.ToString(tempMatris[0, 1]));
 
-            
 
         }
      
